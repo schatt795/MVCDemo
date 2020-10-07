@@ -8,7 +8,7 @@ namespace MVCDemo.Controllers
 {
     public class HomeController : Controller
     {
-        /*Welcome here*/
+        /*Hi There*/
         public ActionResult Index()
         {
             return View();
